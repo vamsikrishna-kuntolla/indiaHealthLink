@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'corsheaders',
     "rest_framework",
     "rest_framework.authtoken",
+    "users",
 ]
 
 MIDDLEWARE = [
@@ -113,7 +114,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-# AUTH_USER_MODEL = "users.User"
+AUTH_USER_MODEL = "users.User"
 
 # Internationalization
 # https://docs.djangoproject.com/en/5.0/topics/i18n/
@@ -133,6 +134,9 @@ USE_TZ = True
 STATIC_URL = 'static/'
 
 MEDIA_ROOT = "/media/"
+
+MEDIA_URL = "/media/"
+
 
 STATIC_ROOT = os.path.join(BASE_DIR, "static")
 
