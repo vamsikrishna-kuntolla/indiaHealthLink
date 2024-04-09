@@ -14,7 +14,8 @@
 
 ***User Signup successfull***
 
-![image](https://github.com/vamsikrishna-kuntolla/indiaHealthLink/assets/108073625/f6a50f52-5201-4b27-a9d5-622c6dc3e38b
+![Screenshot from 2024-04-09 17-18-33](https://github.com/vamsikrishna-kuntolla/indiaHealthLink/assets/108073625/ff95d579-6f79-4ce7-8027-8238ca3d055f)
+
 
 ***Home Page after successfull Login***
 
