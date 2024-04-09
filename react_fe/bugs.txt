@@ -1,0 +1,5 @@
+BugList:
+---------
+
+1) d3 legends needs to fixed. It should be center aligned and dynamically width adjusted.
+2) radial tree plot zoom not working properly

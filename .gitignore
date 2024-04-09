@@ -1,0 +1,10 @@
+venv/
+react_fe/node_modules/
+
+# Ignore .env files
+*.env
+*.mp4
+*.json
+*.mp3
+
+*.sqlite3
